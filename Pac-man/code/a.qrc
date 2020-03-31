@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>a/bean.jpg</file>
+        <file>a/bg.jpg</file>
+        <file>a/empty.jpg</file>
+        <file>a/gold.jpg</file>
+        <file>a/pacman.jpg</file>
+        <file>a/blue.jpg</file>
+        <file>a/pacman.png</file>
+        <file>a/wall.jpg</file>
+        <file>a/point.jpg</file>
+        <file>a/opening.jpg</file>
+        <file>a/Boots Randolph - The Benny Hill Show (＂Yakety Sax＂).mp3</file>
+        <file>a/p1.png</file>
+        <file>a/p2.png</file>
+        <file>a/p3.png</file>
+        <file>a/p4.png</file>
+        <file>a/gatel.jpg</file>
+        <file>a/gater.jpg</file>
+        <file>a/mute.jpg</file>
+        <file>a/mute.png</file>
+        <file>a/music.png</file>
+        <file>a/blueg.png</file>
+        <file>a/greeng.png</file>
+        <file>a/greyg.png</file>
+        <file>a/purpleg.png</file>
+        <file>a/winner.jpg</file>
+        <file>a/Level1.txt</file>
+        <file>a/Level1s.txt</file>
+        <file>a/blank.png</file>
+        <file>a/gameover.png</file>
+        <file>a/timg.jpg</file>
+        <file>a/pac.png</file>
+        <file>a/back.jpg.png</file>
+        <file>a/wall1.png</file>
+        <file>a/Level2.txt</file>
+        <file>a/Level2s.txt</file>
+        <file>a/Level3.txt</file>
+        <file>a/Level3s.txt</file>
+    </qresource>
+</RCC>

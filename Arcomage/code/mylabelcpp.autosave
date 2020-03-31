@@ -1,0 +1,6 @@
+#include "mylabel.h"
+
+mywidget::mywidget(QWidget *parent) : QWidget(parent)
+{
+
+}
